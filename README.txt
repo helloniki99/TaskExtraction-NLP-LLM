@@ -4,6 +4,8 @@ This repository contains the code and experiments for my Bachelor's Thesis
 "A Comparative Analysis of NLP and LLM Methods for Task Extraction" by Niklas Weiss (Student ID: 12110846).
 The thesis investigates several approaches to automated task extraction from process descriptions, comparing traditional NLP methods (e.g., spaCy, Stanza with WordNet, CRF, and BERT-based techniques) with modern large language model (LLM) approaches.
 
+All experimental code and evaluations are provided as interactive Jupyter Notebook (.ipynb) files. You can run these notebooks using Jupyter Notebook or JupyterLab.
+
 ** Project Overview**
 
 The goal of this project is to automate the extraction of tasks from natural language process descriptions, a crucial component in Business Process Management (BPM). The repository includes:
