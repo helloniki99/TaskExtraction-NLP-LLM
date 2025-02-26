@@ -87,5 +87,7 @@ For spaCy: en_core_web_sm and optionally en_core_web_trf
 For Stanza: English models can be downloaded via stanza.download('en')
 For NLTK: Ensure you have the WordNet data (e.g., using nltk.download('wordnet')).
 
+Furthermore, inserting your own API-Keys, depending on the specific models at hand, is necessary to run the code.
+
 This repository is a work in progress. Updates and refinements will be made as new experiments are conducted and further improvements are developed.
 
